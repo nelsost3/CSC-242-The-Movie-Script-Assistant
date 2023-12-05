@@ -1,4 +1,4 @@
-CSC 242 Course - Python Data Structures ☁️🎥✈️🇬🇧🍸🚤💼☁️
+CSC 242 Course - Python Data Structures ☁️🎥✈️🇬🇧🚤💼☁️
 
 • Fall session assignment for Oakton College
 • A movie script assistant that helps film directors with the structure and organization of their movies
